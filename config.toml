@@ -11,7 +11,7 @@ relativeURLs = true
 
 [author]
     name = "Lerch Family"
-    #Handle = ""
+    Handle = "Lerch family"
     FirstName = "Lerch"
     LastName = "Family"
     AboutPage = "https://lerch.org/"
