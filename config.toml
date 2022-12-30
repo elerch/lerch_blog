@@ -25,6 +25,8 @@ relativeURLs = true
     Author = "Lerch Family"
     Copyright = "<a href='http://creativecommons.org/licenses/by/4.0/' title='Creative Commons Attribution'>Creative Commons Attribution-ShareAlike 4.0 International License</a>. Please attribute properly and link back."
     Description = "Lerch Family"
+    RSSEnabled = true
+    RSSSections = [ "Posts", "Microposts", "Photos" ]
     # GitHubUser = "elerch"
     # TwitterUser = "elerch"
     # LinkedInUser = "emillerch"
