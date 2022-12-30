@@ -11,7 +11,7 @@ she looked like on Valentine's Day (week 20):
   
   
   
-[![](../images/thumbnails/2006-05-31-kellys-getting-bigger-KellyOnValentines.jpg)](../images/2006-05-31-kellys-getting-bigger-KellyOnValentines.jpg)  
+[![](/posts/2006-05-31/thumbnails/2006-05-31-kellys-getting-bigger-KellyOnValentines.jpg)](/posts/2006-05-31/2006-05-31-kellys-getting-bigger-KellyOnValentines.jpg)  
   
 
   
@@ -20,4 +20,4 @@ nursery:
 
   
   
-[![](../images/thumbnails/2006-05-31-kellys-getting-bigger-KellyAt35Weeks.jpg)](../images/2006-05-31-kellys-getting-bigger-KellyAt35Weeks.jpg)
+[![](/posts/2006-05-31/thumbnails/2006-05-31-kellys-getting-bigger-KellyAt35Weeks.jpg)](/posts/2006-05-31/2006-05-31-kellys-getting-bigger-KellyAt35Weeks.jpg)

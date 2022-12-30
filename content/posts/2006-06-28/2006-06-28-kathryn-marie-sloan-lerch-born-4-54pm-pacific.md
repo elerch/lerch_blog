@@ -5,8 +5,8 @@ published = 2006-06-28T18:17:00-07:00
 author = "Emil"
 tags = []
 +++
-[![](../images/thumbnails/2006-06-28-kathryn-marie-sloan-lerch-born-4-54pm-pacific-IMAGE_030.jpg)](../images/2006-06-28-kathryn-marie-sloan-lerch-born-4-54pm-pacific-IMAGE_030.jpg)  
-[![](../images/thumbnails/2006-06-28-kathryn-marie-sloan-lerch-born-4-54pm-pacific-IMAGE_029.jpg)](../images/2006-06-28-kathryn-marie-sloan-lerch-born-4-54pm-pacific-IMAGE_029.jpg)  
+[![](/posts/2006-06-28/thumbnails/2006-06-28-kathryn-marie-sloan-lerch-born-4-54pm-pacific-IMAGE_030.jpg)](/posts/2006-06-28/2006-06-28-kathryn-marie-sloan-lerch-born-4-54pm-pacific-IMAGE_030.jpg)  
+[![](/posts/2006-06-28/thumbnails/2006-06-28-kathryn-marie-sloan-lerch-born-4-54pm-pacific-IMAGE_029.jpg)](/posts/2006-06-28/2006-06-28-kathryn-marie-sloan-lerch-born-4-54pm-pacific-IMAGE_029.jpg)  
 7lbs, 13oz  
 20in length  
   

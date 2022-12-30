@@ -11,6 +11,12 @@ relativeURLs = true
 
 [author]
     name = "Lerch Family"
+    #Handle = ""
+    FirstName = "Lerch"
+    LastName = "Family"
+    AboutPage = "https://lerch.org/"
+    Location = "Portland, OR"
+    #FlickrID = "<Your Flickr ID>"
 
 [permalinks]
     posts = "/:slug/"

@@ -5,7 +5,7 @@ published = 2007-08-15T14:16:00-07:00
 author = "Emil"
 tags = []
 +++
-[![](../images/thumbnails/2007-08-15-new-pictures-and-videos-now-posted-img_2553.jpg)](../images/2007-08-15-new-pictures-and-videos-now-posted-img_2553.jpg)Kathryn
+[![](/posts/2007-08-15/thumbnails/2007-08-15-new-pictures-and-videos-now-posted-img_2553.jpg)](/posts/2007-08-15/2007-08-15-new-pictures-and-videos-now-posted-img_2553.jpg)Kathryn
 is now standing on her own, and on August 13th, she decided to start
 walking on her own. She usually does just a few steps on her own right
 now, but any day she'll be running around like crazy. With any luck,

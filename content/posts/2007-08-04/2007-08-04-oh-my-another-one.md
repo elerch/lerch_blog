@@ -20,7 +20,7 @@ together, but 18 months was a bit sooner than we had expected. Yikes!
 This is Kathryn when we told her the news....  
   
   
-[![](../images/thumbnails/2007-08-04-oh-my-another-one-Kathryn_Surprise_Small.jpg)](../images/2007-08-04-oh-my-another-one-Kathryn_Surprise_Small.jpg)  
+[![](/posts/2007-08-04/thumbnails/2007-08-04-oh-my-another-one-Kathryn_Surprise_Small.jpg)](/posts/2007-08-04/2007-08-04-oh-my-another-one-Kathryn_Surprise_Small.jpg)  
 We found out we were pregnant on Tuesday April 10th, after watching a
 TIVO'ed episode of '24'. I just had this strong feeling I was pregnant -
 and sure enough! Needless to say Emil and I were both more than a little
