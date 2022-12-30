@@ -1,4 +1,5 @@
-baseurl = "https://blog.lerch.org"
+#baseurl = "https://blog.lerch.org/"
+baseurl = "https://lerchblogtemp.pages.dev/"
 languageCode = "en-us"
 title = "Lerch Family Blog"
 SectionPagesMenu = "main"
