@@ -1,0 +1,36 @@
+baseurl = "https://blog.lerch.org"
+languageCode = "en-us"
+title = "Lerch Family Blog"
+SectionPagesMenu = "main"
+pygmentsStyle = "monokai"
+pygmentsCodefences = true
+pygmentsUseClasses = false
+theme = "internet-weblog"
+relativeURLs = true
+
+[author]
+    name = "Lerch Family"
+
+[permalinks]
+    posts = "/:slug/"
+
+[params]
+    Author = "Lerch Family"
+    Copyright = "<a href='http://creativecommons.org/licenses/by/4.0/' title='Creative Commons Attribution'>Creative Commons Attribution-ShareAlike 4.0 International License</a>. Please attribute properly and link back."
+    Description = "Lerch Family"
+    # GitHubUser = "elerch"
+    # TwitterUser = "elerch"
+    # LinkedInUser = "emillerch"
+    # MastodonUser = "@emil"
+    # MastodonInstance = "mstdn.io"
+    # disqusShortname = "emillerch"
+
+[markup]
+    [markup.highlight]
+        noclasses = true
+
+[blackfriday]
+    smartypants = false
+    angledQuotes = false
+    smartDashes = false
+    latexDashes = false
